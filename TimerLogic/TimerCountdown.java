@@ -9,7 +9,7 @@ public class TimerCountdown extends TimerCountup {
     
     public TimerCountdown() {
         super();
-        this.countTo = 0;
+        this.countTo = 0; // countdown to 0
     }
 
     @Override
