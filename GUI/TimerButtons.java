@@ -25,7 +25,7 @@ import TimerStopwatch.TimerLogic.TimerCountup;
 import javax.swing.JTextField;
 
 /**
- *
+ * Buttons for both stopwatch and timer (reset, start, stop)
  * @author enthye
  */
 public class TimerButtons extends JPanel {
