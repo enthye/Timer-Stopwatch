@@ -4,7 +4,6 @@ import TimerStopwatch.GUI.UserInterface;
 import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 
-
 /**
  *
  * @author enthye
